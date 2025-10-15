@@ -25,4 +25,5 @@ O **[personal-contract-api](https://github.com/andre3tcss/personal-contract-api)
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL-AQUI/](https://www.linkedin.com/in/andr%C3%A9-octavio-gasparino-b5b6b62b4/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/andr%C3%A9-octavio-gasparino-b5b6b62b4/))
